@@ -1,0 +1,101 @@
+order_id,customer_name,product_name,order_date,order_amount,shipping_region,order_status
+OMNI-1001,James Wilson,Winter Parka Coat,2026-09-15,129.99,UK_Mainland,Delivered
+OMNI-1002," Sarah Jenkins ",Bluetooth Headphones,12/08/2026,£85.50,uk_mainland,Delivered
+OMNI-1003,Robert Brown,4K Smart TV,05-Jul-2026,nan,UK_HIGHLANDS,In_Transit
+OMNI-1004,Michael Smith,"Custom Tailored Suit ",14/09/2026,450.00,UK_Mainland,Returned
+OMNI-1005,Emily Davis,Electric Toothbrush,2026-09-28,55.00,,Processing
+OMNI-1006,"Thomas Wright ",Silk Swimwear,05-Jun-2026,45.00,UK_Islands,Delivered
+OMNI-1007,Jessica Taylor,Winter Parka Coat,10-Sep-2026,N/A,Northern_Ireland,In_Transit
+OMNI-1008,David Miller," Bluetooth Headphones",18/09/2026,85.50,UK_Mainland,Processing
+OMNI-1009,Linda Anderson,4K Smart TV,2026-08-01,899.00,UK_Highlands,Delivered
+OMNI-1010," Christopher Lee",Electric Toothbrush,22/09/2026,£55.00,UK_Mainland,In_Transit
+OMNI-1011,Barbara White,Custom Tailored Suit,15-Jul-2026,450.00,null,Returned
+OMNI-1012,Daniel Harris,Winter Parka Coat,29/09/2026,129.99,UK_Mainland,Processing
+OMNI-1013,Matthew Martin,"4K Smart TV ",2026-08-15,899.00,Northern_Ireland,Delivered
+OMNI-1014," Elizabeth Thompson ",Bluetooth Headphones,10/09/2026,85.50,UK_Islands,In_Transit
+OMNI-1015,Anthony Garcia,Silk Swimwear,2026-09-25,45.00,UK_Mainland,Processing
+OMNI-1016,Margaret Lewis,Electric Toothbrush,15-Aug-2026,55.00,UK_Highlands,Delivered
+OMNI-1017,Mark Robinson,Winter Parka Coat,05-Sep-2026,129.99,UK_Mainland,Returned
+OMNI-1018," Steven Walker ",4K Smart TV,30/08/2026,£899.00,Northern_Ireland,Delivered
+OMNI-1019,Paul Young,Bluetooth Headphones,2026-09-29,85.50,UK_Mainland,Processing
+OMNI-1020,"Karen Hall ",Custom Tailored Suit,02/09/2026,450.00,UK_Mainland,In_Transit
+OMNI-1021,Kevin Allen,Ergonomic Wireless Mouse,12-Jan-2026,29.99,UK_Mainland,Delivered
+OMNI-1022,Nancy King,Noise-Cancelling Earbuds,2026-02-14,110.00,uk_mainland,Delivered
+OMNI-1023," Lisa Wright ",Winter Parka Coat,20/09/2026,,UK_Islands,Processing
+OMNI-1024,George Scott,Bluetooth Headphones,05-Mar-2026,85.50,UK_Mainland,Cancelled
+OMNI-1025,Sandra Green,4K Smart TV,2026-09-12,899.00,UK_Mainland,Delivered
+OMNI-1026," Donna Adams ",Electric Toothbrush,18/08/2026,55.00,UK_HIGHLANDS,Delivered
+OMNI-1027,Kenneth Baker,Silk Swimwear,2026-09-20,45.00,UK_Mainland,In_Transit
+OMNI-1028,Carol Nelson,Custom Tailored Suit,10-Sep-2026,450.00,Northern_Ireland,Processing
+OMNI-1029,Edward Hill,Ergonomic Wireless Mouse,2026-04-22,29.99,UK_Mainland,Delivered
+OMNI-1030," Susan Campbell ",Noise-Cancelling Earbuds,01/09/2026,110.00,uk_mainland,Delivered
+OMNI-1031,Ronald Mitchell,Winter Parka Coat,15-May-2026,129.99,UK_Islands,Delivered
+OMNI-1032,Dorothy Roberts,Bluetooth Headphones,2026-09-27,85.50,UK_Mainland,Processing
+OMNI-1033,Jason Carter,4K Smart TV,14/09/2026,£899.00,UK_Mainland,In_Transit
+OMNI-1034," Helen Phillips ",Electric Toothbrush,2026-09-18,55.00,UK_Highlands,Processing
+OMNI-1035,Jeff Evans,Silk Swimwear,05-Aug-2026,45.00,UK_Mainland,Delivered
+OMNI-1036,Betty Turner,Custom Tailored Suit,2026-09-01,450.00,Northern_Ireland,In_Transit
+OMNI-1037,Gary Torres,Ergonomic Wireless Mouse,12/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1038," Karen Parker ",Noise-Cancelling Earbuds,2026-07-19,110.00,UK_Mainland,Delivered
+OMNI-1039,Timothy Collins,Winter Parka Coat,25-Sep-2026,129.99,UK_Islands,Processing
+OMNI-1040,Patricia Edwards,Bluetooth Headphones,2026-09-10,85.50,UK_Mainland,Delivered
+OMNI-1041,Larry Stewart,4K Smart TV,08/09/2026,,UK_Mainland,In_Transit
+OMNI-1042," Amy Morris ",Electric Toothbrush,2026-09-22,55.00,UK_Highlands,Processing
+OMNI-1043,Frank Rogers,Silk Swimwear,15-Jun-2026,45.00,UK_Mainland,Delivered
+OMNI-1044,Scott Reed,Custom Tailored Suit,2026-09-14,450.00,Northern_Ireland,Returned
+OMNI-1045,Maria Cook,Ergonomic Wireless Mouse,20/09/2026,29.99,UK_Mainland,Processing
+OMNI-1046," Raymond Morgan ",Noise-Cancelling Earbuds,2026-08-28,110.00,UK_Mainland,Delivered
+OMNI-1047,Catherine Bell,Winter Parka Coat,02-Sep-2026,129.99,UK_Islands,Delivered
+OMNI-1048,Gregory Murphy,Bluetooth Headphones,2026-09-15,85.50,UK_Mainland,In_Transit
+OMNI-1049,Janet Bailey,4K Smart TV,12/09/2026,899.00,UK_Mainland,Delivered
+OMNI-1050," Joshua Rivera ",Electric Toothbrush,2026-09-29,55.00,UK_Highlands,Processing
+OMNI-1051,Virginia Cooper,Silk Swimwear,10-Jul-2026,45.00,UK_Mainland,Delivered
+OMNI-1052,Andrew Richardson,Custom Tailored Suit,2026-09-18,450.00,,Processing
+OMNI-1053,Alice Cox,Ergonomic Wireless Mouse,05/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1054," Joe Howard ",Noise-Cancelling Earbuds,2026-09-01,110.00,UK_Mainland,Delivered
+OMNI-1055,Pamela Ward,Winter Parka Coat,18-Sep-2026,129.99,UK_Islands,In_Transit
+OMNI-1056,Jack Torres,Bluetooth Headphones,2026-09-22,85.50,UK_Mainland,Processing
+OMNI-1057,Anna Peterson,4K Smart TV,14/09/2026,899.00,UK_Mainland,Delivered
+OMNI-1058," Dennis Gray ",Electric Toothbrush,2026-08-15,55.00,UK_Highlands,Delivered
+OMNI-1059,Jerry James,Silk Swimwear,22-Sep-2026,45.00,UK_Mainland,Processing
+OMNI-1060,Diane Watson,Custom Tailored Suit,2026-09-10,450.00,Northern_Ireland,In_Transit
+OMNI-1061,Henry Brooks,Ergonomic Wireless Mouse,08/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1062," Julie Kelly ",Noise-Cancelling Earbuds,2026-09-25,110.00,UK_Mainland,Processing
+OMNI-1063,Ryan Sanders,Winter Parka Coat,12-Sep-2026,129.99,UK_Islands,Delivered
+OMNI-1064,Heather Price,Bluetooth Headphones,2026-09-28,85.50,UK_Mainland,Processing
+OMNI-1065,Walter Bennett,4K Smart TV,20/09/2026,899.00,UK_Mainland,In_Transit
+OMNI-1066," Teresa Wood ",Electric Toothbrush,2026-09-05,55.00,UK_Highlands,Delivered
+OMNI-1067,Patrick Barnes,Silk Swimwear,15-Aug-2026,45.00,UK_Mainland,Delivered
+OMNI-1068,Doris Ross,Custom Tailored Suit,2026-09-14,450.00,Northern_Ireland,Returned
+OMNI-1069,Peter Henderson,Ergonomic Wireless Mouse,02/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1070," Gloria Coleman ",Noise-Cancelling Earbuds,2026-09-18,110.00,UK_Mainland,In_Transit
+OMNI-1071,Harold Jenkins,Winter Parka Coat,10-Sep-2026,129.99,UK_Islands,Delivered
+OMNI-1072,Jean Perry,Bluetooth Headphones,2026-09-29,85.50,UK_Mainland,Processing
+OMNI-1073,Douglas Powell,4K Smart TV,12/09/2026,899.00,UK_Mainland,Delivered
+OMNI-1074," Cheryl Long ",Electric Toothbrush,2026-09-22,55.00,UK_Highlands,In_Transit
+OMNI-1075,Arthur Patterson,Silk Swimwear,18-Sep-2026,45.00,UK_Mainland,Processing
+OMNI-1076,Mildred Hughes,Custom Tailored Suit,2026-09-01,450.00,Northern_Ireland,Delivered
+OMNI-1077,Lawrence Flores,Ergonomic Wireless Mouse,05/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1078," Alice Washington ",Noise-Cancelling Earbuds,2026-09-15,110.00,UK_Mainland,Delivered
+OMNI-1079,Roger Butler,Winter Parka Coat,22-Sep-2026,129.99,UK_Islands,Processing
+OMNI-1080,Brenda Simmons,Bluetooth Headphones,2026-09-10,85.50,UK_Mainland,Delivered
+OMNI-1081,Albert Foster,4K Smart TV,14/09/2026,899.00,UK_Mainland,In_Transit
+OMNI-1082," Nicole Gonzales ",Electric Toothbrush,2026-09-28,55.00,UK_Highlands,Processing
+OMNI-1083,Willie Bryant,Silk Swimwear,08-Sep-2026,45.00,UK_Mainland,Delivered
+OMNI-1084,Theresa Alexander,Custom Tailored Suit,2026-09-20,450.00,Northern_Ireland,Processing
+OMNI-1085,Joe Russell,Ergonomic Wireless Mouse,20/09/2026,29.99,UK_Mainland,In_Transit
+OMNI-1086," Katherine Griffin ",Noise-Cancelling Earbuds,2026-09-05,110.00,UK_Mainland,Delivered
+OMNI-1087,Chris Diaz,Winter Parka Coat,15-Aug-2026,129.99,UK_Islands,Delivered
+OMNI-1088,Evelyn Hayes,Bluetooth Headphones,2026-09-14,85.50,UK_Mainland,Returned
+OMNI-1089,Edward Myers,4K Smart TV,02/09/2026,899.00,UK_Mainland,Delivered
+OMNI-1090," Rose Ford ",Electric Toothbrush,2026-09-18,55.00,UK_Highlands,In_Transit
+OMNI-1091,Stephen Hamilton,Silk Swimwear,10-Sep-2026,45.00,UK_Mainland,Delivered
+OMNI-1092,Judith Graham,Custom Tailored Suit,2026-09-29,450.00,Northern_Ireland,Processing
+OMNI-1093,John Sullivan,Ergonomic Wireless Mouse,12/09/2026,29.99,UK_Mainland,Delivered
+OMNI-1094," Carolyn Wallace ",Noise-Cancelling Earbuds,2026-09-22,110.00,UK_Mainland,In_Transit
+OMNI-1095,Carl Woods,Winter Parka Coat,18-Sep-2026,129.99,UK_Islands,Processing
+OMNI-1096,Jane West,Bluetooth Headphones,2026-09-01,85.50,UK_Mainland,Delivered
+OMNI-1097,Samuel Jordan,4K Smart TV,05/09/2026,899.00,UK_Mainland,Delivered
+OMNI-1098," Lori Owens ",Electric Toothbrush,2026-09-15,55.00,UK_Highlands,In_Transit
+OMNI-1099,Howard Reynolds,Silk Swimwear,22-Sep-2026,45.00,UK_Mainland,Processing
+OMNI-1100,Ann Fisher,Custom Tailored Suit,2026-09-10,450.00,Northern_Ireland,Delivereds

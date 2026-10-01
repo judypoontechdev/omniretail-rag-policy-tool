@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>OmniRetail UK - Policy Tool</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <h2>OmniRetail UK Policy Checker</h2>
+
+      <label>Order ID (Optional):</label>
+      <input type="text" id="orderId" placeholder="e.g. OMNI-1001" />
+
+      <label>Customer Query:</label>
+      <textarea
+        id="queryInput"
+        rows="4"
+        placeholder="Enter customer inquiry..."
+      ></textarea>
+
+      <button id="submitBtn" onclick="runCheck()">Submit</button>
+
+      <div id="outputArea" style="display: none">
+        <hr />
+        <p><strong>Category:</strong> <span id="outCat"></span></p>
+        <p><strong>Decision:</strong> <span id="outDec"></span></p>
+        <p id="outGapBlock" style="color: red"></p>
+
+        <p><strong>Resolution:</strong></p>
+        <pre id="outAnswer"></pre>
+
+        <p><strong>Matched Order Record:</strong></p>
+        <pre id="outOrder"></pre>
+      </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

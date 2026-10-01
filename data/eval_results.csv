@@ -1,0 +1,21 @@
+test_id,query,expected_category,actual_category,category_correct,expected_decision,actual_decision,decision_correct
+T-001,I received my Winter Parka Coat 45 days ...,returns,returns,True,rejected,approved,False
+T-002,I opened the Silk Swimwear I ordered and...,returns,general,False,rejected,approved,False
+T-003,My Custom Tailored Suit arrived yesterda...,returns,returns,True,rejected,approved,False
+T-004,I bought Bluetooth Headphones 10 days ag...,returns,returns,True,approved,approved,True
+T-005,I noticed you deducted £3.50 from my ref...,returns,returns,True,rejected,approved,False
+T-006,I live in the Scottish Highlands (IV pos...,shipping,shipping,True,approved,approved,True
+T-007,My order total was £45.00. Why was I cha...,shipping,shipping,True,approved,approved,True
+T-008,I placed an order for Next-Day Express a...,shipping,shipping,True,rejected,approved,False
+T-009,Tracking says my parcel was delivered to...,shipping,shipping,True,review required,approved,False
+T-010,I need to change my delivery address. My...,shipping,shipping,True,rejected,approved,False
+T-011,My 4K Smart TV arrived with a cracked sc...,warranty,warranty,True,approved,approved,True
+T-012,I dropped my Noise-Cancelling Earbuds an...,warranty,warranty,True,rejected,approved,False
+T-013,My Electric Toothbrush battery only hold...,warranty,warranty,True,approved,approved,True
+T-014,My Ergonomic Wireless Mouse is 2 years o...,warranty,general,False,approved,approved,True
+T-015,My Electric Toothbrush fell into the bat...,warranty,warranty,True,rejected,approved,False
+T-016,I am about to buy a TV. Can you give me ...,pricing_promotion,pricing_promotion,True,gap / denied,gap / denied,True
+T-017,I placed an order yesterday for a 4K Sma...,pricing_promotion,pricing_promotion,True,rejected,approved,False
+T-013,I found the same 4K Smart TV cheaper on ...,pricing_promotion,pricing_promotion,True,rejected,approved,False
+T-019,Currys has the identical 4K Smart TV in ...,pricing_promotion,returns,False,approved,approved,True
+T-020,I have a 10% student code and a £5 birth...,pricing_promotion,pricing_promotion,True,rejected,approved,False
